@@ -14,7 +14,7 @@ github_repo: "portfolio"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://hash.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hashimoto-ml.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -49,7 +49,7 @@ use_math: true
 show_description: true
 
 # Set this to true to display image previews on home page, if they exist
-show_image: true
+show_image: false
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
